@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/global-exsting-block-fn-update.case
+// - src/annex-b-fns/global-existing-block-fn-update.case
 // - src/annex-b-fns/global/if-decl-else-decl-b.template
 /*---
 description: Variable-scoped binding is updated (IfStatement with a declaration in both statement positions in the global scope)

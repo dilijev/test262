@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-global-exsting-global-init.case
+// - src/annex-b-fns/eval-global-existing-global-init.case
 // - src/annex-b-fns/eval-global/indirect-if-decl-else-stmt.template
 /*---
 description: Variable binding is set to `undefined` (IfStatement with a declaration in the first statement position in eval code)

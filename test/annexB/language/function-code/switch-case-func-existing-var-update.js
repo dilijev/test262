@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/func-exsting-var-update.case
+// - src/annex-b-fns/func-existing-var-update.case
 // - src/annex-b-fns/func/switch-case.template
 /*---
 description: Variable-scoped binding is updated following evaluation (Function declaration in the `case` clause of a `switch` statement in function scope)

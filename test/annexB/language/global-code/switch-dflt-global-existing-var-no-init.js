@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/global-exsting-var-no-init.case
+// - src/annex-b-fns/global-existing-var-no-init.case
 // - src/annex-b-fns/global/switch-dflt.template
 /*---
 description: Existing variable binding is not modified (Funtion declaration in the `default` clause of a `switch` statement in the global scope)

@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-func-exsting-fn-no-init.case
+// - src/annex-b-fns/eval-func-existing-fn-no-init.case
 // - src/annex-b-fns/eval-func/direct-if-decl-else-decl-b.template
 /*---
 description: Existing variable binding is not modified (IfStatement with a declaration in both statement positions in eval code)

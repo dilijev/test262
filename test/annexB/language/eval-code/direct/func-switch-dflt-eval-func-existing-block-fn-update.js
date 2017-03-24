@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-func-exsting-block-fn-update.case
+// - src/annex-b-fns/eval-func-existing-block-fn-update.case
 // - src/annex-b-fns/eval-func/direct-switch-dflt.template
 /*---
 description: Variable-scoped binding is updated (Funtion declaration in the `default` clause of a `switch` statement in eval code in the global scope)

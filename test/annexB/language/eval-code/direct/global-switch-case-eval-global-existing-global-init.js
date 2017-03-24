@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-global-exsting-global-init.case
+// - src/annex-b-fns/eval-global-existing-global-init.case
 // - src/annex-b-fns/eval-global/direct-switch-case.template
 /*---
 description: Variable binding is set to `undefined` (Function declaration in the `case` clause of a `switch` statement in eval code)

@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-func-exsting-var-update.case
+// - src/annex-b-fns/eval-func-existing-var-update.case
 // - src/annex-b-fns/eval-func/direct-block.template
 /*---
 description: Variable-scoped binding is updated following evaluation (Block statement in eval code containing a function declaration)

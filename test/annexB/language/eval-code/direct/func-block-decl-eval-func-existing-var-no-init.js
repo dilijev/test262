@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-func-exsting-var-no-init.case
+// - src/annex-b-fns/eval-func-existing-var-no-init.case
 // - src/annex-b-fns/eval-func/direct-block.template
 /*---
 description: Existing variable binding is not modified (Block statement in eval code containing a function declaration)

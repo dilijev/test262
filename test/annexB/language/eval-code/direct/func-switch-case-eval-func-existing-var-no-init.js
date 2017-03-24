@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-func-exsting-var-no-init.case
+// - src/annex-b-fns/eval-func-existing-var-no-init.case
 // - src/annex-b-fns/eval-func/direct-switch-case.template
 /*---
 description: Existing variable binding is not modified (Function declaration in the `case` clause of a `switch` statement in eval code)

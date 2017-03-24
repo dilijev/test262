@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/global-exsting-block-fn-no-init.case
+// - src/annex-b-fns/global-existing-block-fn-no-init.case
 // - src/annex-b-fns/global/switch-dflt.template
 /*---
 description: Does not re-initialize binding created by similar forms (Funtion declaration in the `default` clause of a `switch` statement in the global scope)

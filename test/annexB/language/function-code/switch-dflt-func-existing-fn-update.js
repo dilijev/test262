@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/func-exsting-fn-update.case
+// - src/annex-b-fns/func-existing-fn-update.case
 // - src/annex-b-fns/func/switch-dflt.template
 /*---
 description: Variable-scoped binding is updated following evaluation (Funtion declaration in the `default` clause of a `switch` statement in function scope)

@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/func-exsting-fn-update.case
+// - src/annex-b-fns/func-existing-fn-update.case
 // - src/annex-b-fns/func/block.template
 /*---
 description: Variable-scoped binding is updated following evaluation (Block statement in function scope containing a function declaration)

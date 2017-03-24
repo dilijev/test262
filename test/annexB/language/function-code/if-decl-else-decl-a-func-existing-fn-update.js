@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/func-exsting-fn-update.case
+// - src/annex-b-fns/func-existing-fn-update.case
 // - src/annex-b-fns/func/if-decl-else-decl-a.template
 /*---
 description: Variable-scoped binding is updated following evaluation (IfStatement with a declaration in both statement positions in function scope)

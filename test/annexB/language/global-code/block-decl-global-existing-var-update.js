@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/global-exsting-var-update.case
+// - src/annex-b-fns/global-existing-var-update.case
 // - src/annex-b-fns/global/block.template
 /*---
 description: Variable-scoped binding is updated following evaluation (Block statement in the global scope containing a function declaration)

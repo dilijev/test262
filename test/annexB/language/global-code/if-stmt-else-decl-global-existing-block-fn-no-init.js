@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/global-exsting-block-fn-no-init.case
+// - src/annex-b-fns/global-existing-block-fn-no-init.case
 // - src/annex-b-fns/global/if-stmt-else-decl.template
 /*---
 description: Does not re-initialize binding created by similar forms (IfStatement with a declaration in the second statement position in the global scope)

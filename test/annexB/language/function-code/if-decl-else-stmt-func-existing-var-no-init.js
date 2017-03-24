@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/func-exsting-var-no-init.case
+// - src/annex-b-fns/func-existing-var-no-init.case
 // - src/annex-b-fns/func/if-decl-else-stmt.template
 /*---
 description: Existing variable binding is not modified (IfStatement with a declaration in the first statement position in function scope)

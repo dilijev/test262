@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/func-exsting-block-fn-no-init.case
+// - src/annex-b-fns/func-existing-block-fn-no-init.case
 // - src/annex-b-fns/func/block.template
 /*---
 description: Does not re-initialize binding created by similar forms (Block statement in function scope containing a function declaration)

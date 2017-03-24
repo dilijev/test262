@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-global-exsting-fn-update.case
+// - src/annex-b-fns/eval-global-existing-fn-update.case
 // - src/annex-b-fns/eval-global/indirect-if-stmt-else-decl.template
 /*---
 description: Variable-scoped binding is updated following evaluation (IfStatement with a declaration in the second statement position in eval code)

@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-global-exsting-global-update.case
+// - src/annex-b-fns/eval-global-existing-global-update.case
 // - src/annex-b-fns/eval-global/direct-switch-case.template
 /*---
 description: Variable-scoped binding is updated following evaluation (Function declaration in the `case` clause of a `switch` statement in eval code)

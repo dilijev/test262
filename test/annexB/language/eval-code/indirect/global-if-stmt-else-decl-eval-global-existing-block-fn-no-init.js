@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-global-exsting-block-fn-no-init.case
+// - src/annex-b-fns/eval-global-existing-block-fn-no-init.case
 // - src/annex-b-fns/eval-global/indirect-if-stmt-else-decl.template
 /*---
 description: Does not re-initialize binding created by similar forms (IfStatement with a declaration in the second statement position in eval code)

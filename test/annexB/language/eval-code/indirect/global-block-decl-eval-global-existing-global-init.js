@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-global-exsting-global-init.case
+// - src/annex-b-fns/eval-global-existing-global-init.case
 // - src/annex-b-fns/eval-global/indirect-block.template
 /*---
 description: Variable binding is set to `undefined` (Block statement in eval code containing a function declaration)

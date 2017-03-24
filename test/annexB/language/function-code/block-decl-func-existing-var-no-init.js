@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/func-exsting-var-no-init.case
+// - src/annex-b-fns/func-existing-var-no-init.case
 // - src/annex-b-fns/func/block.template
 /*---
 description: Existing variable binding is not modified (Block statement in function scope containing a function declaration)

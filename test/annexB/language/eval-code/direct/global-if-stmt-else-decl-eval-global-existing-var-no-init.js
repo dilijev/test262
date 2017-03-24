@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/eval-global-exsting-var-no-init.case
+// - src/annex-b-fns/eval-global-existing-var-no-init.case
 // - src/annex-b-fns/eval-global/direct-if-stmt-else-decl.template
 /*---
 description: Existing variable binding is not modified (IfStatement with a declaration in the second statement position in eval code)

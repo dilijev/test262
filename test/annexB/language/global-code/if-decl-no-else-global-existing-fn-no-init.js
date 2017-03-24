@@ -1,5 +1,5 @@
 // This file was procedurally generated from the following sources:
-// - src/annex-b-fns/global-exsting-fn-no-init.case
+// - src/annex-b-fns/global-existing-fn-no-init.case
 // - src/annex-b-fns/global/if-decl-no-else.template
 /*---
 description: Existing variable binding is not modified (IfStatement without an else clause in the global scope)
